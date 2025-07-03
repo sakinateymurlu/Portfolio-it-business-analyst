@@ -1,0 +1,31 @@
+# 📂 Jira Case Studies – IT Business Analyst
+
+Bu qovluqda Jira platformasında hazırlanmış iki real case təqdim olunur:
+
+---
+
+## 🔐 Case 1: Barmaq izi ilə təhlükəsiz giriş
+
+*User Story:*  
+Mən mobil bank istifadəçisi kimi, tətbiqə daxil olarkən barmaq izi ilə giriş funksiyasından istifadə etmək istəyirəm, belə ki bu həm daha sürətli giriş imkanı yaradır, həm də təhlükəsizlik səviyyəsini artırır.
+
+*Acceptance Criteria:*
+- Tətbiqdə biometrik giriş funksiyası aktivləşdirilə bilər
+- Barmaq izi ilə giriş zamanı alternativ girişlər də mövcuddur
+- Funksiya parametrlərdən idarə olunur
+
+---
+
+## 📊 Case 2: Aylıq xərclərin kateqoriyalara bölünməsi
+
+*User Story:*  
+Mən bank müştərisi kimi, xərclərimin ay ərzində hansı kateqoriyalara (qida, nəqliyyat, geyim və s.) xərcləndiyini görmək istəyirəm, beləliklə xərclərimi daha düzgün idarə edə bilim.
+
+*Acceptance Criteria:*
+- Xərclər avtomatik olaraq kateqoriyalara ayrılır
+- İstifadəçi bu kateqoriyaları görə və dəyişə bilər
+- İllik/aylıq xərclər üzrə statistik özet görünür
+
+---
+
+🔗 PDF sənədləri aşağıda əlavə olunacaq.
