@@ -1,0 +1,10 @@
+Description
+
+🟣User Story
+Mən mobil bank istifadəçisi kimi, tətbiqə daxil olarkən barmaq izi ilə giriş funksiyasından istifadə etmək istəyirəm, belə ki bu həm daha sürətli giriş imkanı yaradır, həm də təhlükəsizlik səviyyəsini artırır.
+⸻
+🟢 Acceptance Criteria
+	1.	İstifadəçi tətbiq parametrlərindən barmaq izi ilə giriş funksiyasını aktiv və ya deaktiv edə bilməlidir.
+	2.	Əgər istifadəçinin cihazı biometrik girişi dəstəkləyirsə, bu seçim tətbiqdə görünməlidir və istifadə edilə bilməlidir.
+	3.	Funksiya aktiv olduqda, istifadəçi tətbiqi açan zaman sistem barmaq izi ilə identifikasiya tələb etməlidir.
+	4.	Əgər barmaq izi tanınmazsa və ya səhv daxil edilərsə, istifadəçiyə xəbərdarlıq mesajı göstərilməlidir və alternativ giriş (şifrə və ya PIN) seçimi təklif olunmalıdır.
