@@ -80,3 +80,5 @@ FROM balance_hide_logs
 WHERE action = 'hide'
 GROUP BY user_id
 ORDER BY usage_count DESC;
+
+![User Story Screenshot](user-story-example.png)
